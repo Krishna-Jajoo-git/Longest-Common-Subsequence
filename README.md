@@ -21,3 +21,6 @@ effectively compare S with itself. So, consider string1 = S and string2 = S.
 Example:
 AABCBDC
 LRS= ABC or ABD
+
+LeetCode Assesment:
+https://leetcode.com/problems/longest-common-subsequence/description/
